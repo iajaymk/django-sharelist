@@ -14,8 +14,13 @@
 
 .description{
     padding: 3%;
+    text-align: center;
 }
 
-button{
-    margin: 3% 0 0 0;
+.btn{
+    width: 100%;
+}
+
+.form-section{
+    margin: 2% 0 0;
 }
