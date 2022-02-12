@@ -1,0 +1,21 @@
+
+#title{
+    background-color: #fff;
+    padding: 3% 15%;
+}
+
+.title-image{
+    width: 80%;
+}
+
+.row{
+    padding: 3%;
+}
+
+.description{
+    padding: 3%;
+}
+
+button{
+    margin: 3% 0 0 0;
+}
